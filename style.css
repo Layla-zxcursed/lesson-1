@@ -1,0 +1,52 @@
+ .body {
+    background-color: rgb(255, 230, 196);    
+ }
+ .svg {
+    width: 500px;
+    background: yellow;
+    fill: rgb(255, 0, 0);
+ }
+ 
+ .search-btn { 
+    width: 500px;
+    background: yellow;
+    fill: rgb(255, 0, 0);
+ }
+ 
+ .search-btn:hover svg path {
+    transition: stroke .5s;
+ }
+ 
+ .search-btn:hover svg path {
+    stroke: rgb(169, 50, 205);
+ }
+ .colorblye {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: blue;
+}
+.colorviolet {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: rgb(255, 0, 221);
+}
+.coloraqua {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: aqua;
+}
+.colorred {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: red;
+}
+.colorwhite {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: white;
+}
+.colorpink {
+    font-weight: 700;
+    background-color: aquamarine;
+    color: pink;
+}
